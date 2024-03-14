@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  devops2023:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-03-14T10:14:14.5760535+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 33a93355f01af73012d76a1d8c5a0c54e0b76eb486bedbcb6c04372d6c129210
+    name: devops2023
+    type: application
+    urls:
+    - https://lokiharsha.github.io/helmtest/devops2023-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-03-14T10:14:14.54821+05:30"
